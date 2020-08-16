@@ -5,22 +5,16 @@
 
 ## Description
 
-This program is intended to store notes
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Questions](#questions)
-    
-## Installation
-
-    npm i
+Note Taker is a full-stack application that has a server hosted on Heroku. The server was built using express.js to handle requests for the front-end to be accessed as well as to get information from the JSON file where the notes are stored.
 
 ## Usage
     
-When you click the link you'll be taken to the index page of the site and after pressing 'Get Started', you'll be taken to the notes page where you can create new notes by clicking the 'pencil' icon, view existing notes by clicking them on the left-hand side. You can delete notes by clicking the 'trash' icon.
+### When you click the [link](https://glacial-scrubland-49341.herokuapp.com/) you'll be taken to the index page of the site and after pressing 'Get Started' you'll be taken to the notes page
+![image of index page](/public/assets/img/index.PNG)
+### Here you can create new notes by clicking the 'pencil' icon, view existing notes by clicking them on the left-hand side. You can delete notes by clicking the 'trash' icon.
+![image of notes page](/public/assets/img/notes.PNG)
+
+Link to site: https://glacial-scrubland-49341.herokuapp.com/
 
 ## License
 
