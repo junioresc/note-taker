@@ -1,9 +1,9 @@
 {
-    "notes": [
+  "notes": [
     {
-        "title":"Test",
-        "text":"sample note", 
-        "id": "0"
+      "title": "first note of the day",
+      "text": "this program finally works",
+      "id": "2ccbxwf8nckdwlgcos"
     }
-    ]
-}    
+  ]
+}
